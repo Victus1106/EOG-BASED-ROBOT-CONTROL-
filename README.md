@@ -10,16 +10,16 @@
 
 | Sr. No. | Name of Student | Roll No. | Branch | Email ID |
 |--------|----------------|---------|--------|----------|
-| 1 | Shrawan Rakesh Rane | 27 | Automation and Robotics | d2024.shrawan.rane@ves.ac.in |
-| 2 | Vinod Santosh Kale | 13 | Automation and Robotics | d2024.vinod.kale@ves.ac.in |
-| 3 | Dhanush Balasubramaian | ________ | Automation and Robotics | d2024.dhanush.balasubramaian@ves.ac.in |
-| 4 | Rahul Kumar Yadav | ________ | Automation and Robotics | 2023.rahulkumar.yadav@ves.ac.in |
+| 1 | Shrawan Rakesh Rane | 24 | Automation and Robotics | d2024.shrawan.rane@ves.ac.in |
+| 2 | Vinod Santosh Kale | 05 | Automation and Robotics | d2024.vinod.kale@ves.ac.in |
+| 3 | Dhanush Balasubramaian | 37 | Automation and Robotics | d2024.dhanush.balasubramaian@ves.ac.in |
+| 4 | Rahul Kumar Yadav | 33 | Automation and Robotics | 2023.rahulkumar.yadav@ves.ac.in |
 
 ---
 
 ## Guide Details
 
-**Project Guide:** Dr Sangeeta Prassana 
+**Project Guide:** Dr.Sangeeta Prasannaram / Kader Shaikh  
 
 **Department:** Automation and Robotics
 
